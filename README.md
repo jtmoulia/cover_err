@@ -6,7 +6,7 @@ Example of cover error, tested on Erlang 17.
 ## To Reproduce
 
 ```elixir
-mix coveralls
+MIX_ENV=test mix coveralls
 ```
 
 To fix the error, comment out the final line of `culprit/0` in
