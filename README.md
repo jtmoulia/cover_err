@@ -1,7 +1,7 @@
 CoverErr
 ========
 
-Example of cover error.
+Example of cover error, tested on Erlang 17.
 
 ## To Reproduce
 
