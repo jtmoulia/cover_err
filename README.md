@@ -9,7 +9,7 @@ Example of cover error.
 mix coveralls
 ```
 
-To fix the error, comment out the final line of `culprit\0` in
+To fix the error, comment out the final line of `culprit/0` in
 `lib/cover_err.ex` and rerun.
 
 ## The Error
